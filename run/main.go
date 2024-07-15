@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/paketo-buildpacks/composer"
+	"github.com/initializ-buildpacks/composer"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/cargo"
 	"github.com/paketo-buildpacks/packit/v2/postal"

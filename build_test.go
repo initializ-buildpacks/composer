@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	. "github.com/onsi/gomega"
-	"github.com/paketo-buildpacks/composer"
-	"github.com/paketo-buildpacks/composer/fakes"
+	"github.com/initializ-buildpacks/composer"
+	"github.com/initializ-buildpacks/composer/fakes"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/fs"
 	"github.com/paketo-buildpacks/packit/v2/postal"
